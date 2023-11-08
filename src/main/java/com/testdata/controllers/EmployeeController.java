@@ -35,6 +35,6 @@ public class EmployeeController {
 
     @DeleteMapping
     public String deleteAllEmployee(){
-        return employeeService.deleteAllEmployee();
+        return employeeService.deleteAllEmployee();sdsa
     }
 }
